@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Syne:wght@700;800&display=swap');
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; background: #020617; }
+
+body {
+  margin: 0;
+  font-family: 'Outfit', 'Segoe UI', system-ui, sans-serif;
+  color: #eaffff;
+  overflow-x: hidden;
+}
+
+#root { width: 100%; }
